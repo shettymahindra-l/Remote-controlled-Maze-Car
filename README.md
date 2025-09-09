@@ -6,7 +6,7 @@ This is an **ESP32-based Bluetooth remote-controlled maze car** that allows you 
 
 ## 📹 Demo
 
-![Demo GIF]([https://github.com/shettymahindra-l/Remote-controlled-Maze-Car/blob/7eb82bda9d149f623f12533d393f6a1ad6b19d3e/maze%20car.gif](https://github.com/shettymahindra-l/Remote-controlled-Maze-Car/blob/bf880e09a704898a562e5b0855dfd9027b57b596/Maze%20Car.gif))
+![Demo GIF]([Maze Car.gif))
 
 
 ---
